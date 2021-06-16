@@ -139,7 +139,7 @@ function App() {
                       </li>
                     <li>
                       <dl>
-                        <a href='https://drive.google.com/file/d/1UMw6LegpaMYXlBdh5G3wsNZOBTR8ul2K/view?usp=sharing'>
+                        <a href='https://github.com/ajayg51/portfolio'>
                            Portfolio
                         </a>
                       </dl>
@@ -154,7 +154,7 @@ function App() {
         </header>
         <footer className='FOOTER'>
             <p className='CLICKABLE-INFO'>All underlined texts are clickable</p>
-            <p><a href='https://drive.google.com/drive/u/0/folders/10BREm8caGpyE1LokffWhDQQ7rSHmUmXq'><span className='CLICK-PDF'>Click here</span></a> to get pdf version of my resume.</p>
+            <p><a href='https://drive.google.com/file/d/1UMw6LegpaMYXlBdh5G3wsNZOBTR8ul2K/view?usp=sharing'><span className='CLICK-PDF'>Click here</span></a> to get pdf version of my resume.</p>
         </footer>
       </div>
     </div>

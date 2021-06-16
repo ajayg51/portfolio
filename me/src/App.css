@@ -25,6 +25,7 @@
     width: 80%;
     height: 100px;
     background-color: yellow;
+    border-radius: 20px;
     color: black;
     transition: height 1s linear 0.0001s;
 
