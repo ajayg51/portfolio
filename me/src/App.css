@@ -75,7 +75,7 @@
     display: none;
     z-index: 1;
     background-color: #CCCC00;
-    font-size: medium;
+    font-size: small;
     font-weight: bold;
     border-radius: 20px;
   }
@@ -91,8 +91,8 @@
     display: none;
     z-index: 1;
     background-color: #CCCC00;
-    font-size: small;
-    font-weight: bold;
+    font-size: x-small;
+    font-weight: bolder;
     border-radius: 20px;
   }
 
