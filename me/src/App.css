@@ -140,7 +140,6 @@
 @media only screen and (max-width: 999px){
   .SMALLER-SCREEN{
     display: block;
-    background-color: red;
     padding: 10px;
     font-size: large;
     font-weight: bold;
@@ -150,6 +149,7 @@
     padding: 0;
     margin: 0;
     height: 100%;
+    background-image: url("./images/smallScreen.jpg");
   }
   .late-hoverMetext{
     display: none;
@@ -164,16 +164,10 @@
   }
 
   .CLICKABLE-INFO{
-    display: none;
-    margin: 0;
-    padding: 0;
+    display: none; 
   }
-  .late{
-    background-image: url("./images/smallScreen.jpg");
-  } 
 }
 .FOOTER{
-  background-color: black;
   color: yellow; 
   padding: 10px;
   font-size: xx-large;
