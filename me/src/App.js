@@ -11,11 +11,10 @@ function App() {
       </div>
       <div className='App'>
         <header className='App-header'>
-          <p>hello world !!</p>
+          <p className='HELLO-WORLD'>hello world !!</p>
         <div className='late'>
           <p className='late-hoverMetext'>Hover over me !!</p>
           <div className='ITSME'>
-
             <div className="AVATAR">
                 <img src={avatar} width='200px' height='200px' style={{borderRadius:50+'%'}}/>
             </div>
@@ -67,7 +66,7 @@ function App() {
                     <li><p><a href='https://github.com/ajayg51' target='_blank' rel="noopener noreferrer">Github://ajayg51</a></p></li>
                     <li><p><a href='https://www.linkedin.com/in/ajayg51' target='_blank' rel="noopener noreferrer">Linkedin://ajayg51</a></p></li>
                     <li><p><a href='https://codeforces.com/profile/Heyajay' target='_blank' rel="noopener noreferrer">Codeforces://Heyajay</a></p></li>
-                    <li><p><a href='https://www.codechef.com/users/heyajay' target='_blank' rel="noopener noreferrer">Codeforces://heyajay</a></p></li>
+                    <li><p><a href='https://www.codechef.com/users/heyajay' target='_blank' rel="noopener noreferrer">Codechef://heyajay</a></p></li>
                   </ul>
                 </li>
                 <li>SKILLS
@@ -154,7 +153,7 @@ function App() {
         </header>
         <footer className='FOOTER'>
             <p className='CLICKABLE-INFO'>All underlined texts are clickable</p>
-            <p><a href='https://drive.google.com/file/d/1UMw6LegpaMYXlBdh5G3wsNZOBTR8ul2K/view?usp=sharing'><span className='CLICK-PDF'>Click here</span></a> to get pdf version of my resume.</p>
+            <p><a href='https://drive.google.com/file/d/1HC0JPSTj0qZyVwV5uHrQQA4JgR-c5ESt/view?usp=sharing'><span className='CLICK-PDF'>Click here</span></a> to get pdf version of my resume.</p>
         </footer>
       </div>
     </div>
