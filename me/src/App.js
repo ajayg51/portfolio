@@ -93,8 +93,8 @@ function App() {
                 </li>
                 <li>HOBBIES</li>
                   <ul>
-                      <li>Music</li>
                       <li>Coding</li>
+                      <li>Music</li>
                   </ul>
               </ul>
              </div> 
@@ -153,7 +153,7 @@ function App() {
         </header>
         <footer className='FOOTER'>
             <p className='CLICKABLE-INFO'>All underlined texts are clickable</p>
-            <p><a href='https://drive.google.com/file/d/1HC0JPSTj0qZyVwV5uHrQQA4JgR-c5ESt/view?usp=sharing'><span className='CLICK-PDF'>Click here</span></a> to get pdf version of my resume.</p>
+            <p><a href='https://drive.google.com/file/d/1nmw49T8EXXDUTxLt40XAsUDzHKZ7qlLo/view?usp=sharing'><span className='CLICK-PDF'>Click here</span></a> to get pdf version of my resume.</p>
         </footer>
       </div>
     </div>
