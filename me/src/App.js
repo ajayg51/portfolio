@@ -71,22 +71,19 @@ function App() {
                 </li>
                 <li>SKILLS
                   <ul>
-                    <li>Proficient :
-                        <ul>
-                          <li>C++</li>
-                          <li>Git</li>
-                        </ul>
-                    </li>
                     <li>Experienced :
                         <ul>
+                          <li>C++</li>
                           <li>Java </li>
-                          <li>C </li>
-                          <li>Firebase </li>
                         </ul>
                     </li>
                     <li>Familiar :
                         <ul>
-                            <li>Python</li>
+                          <li>C </li>
+                          <li>Python</li>
+                          <li>React.js</li>
+                          <li>Firebase </li>
+                          <li>Git</li>
                         </ul>
                     </li>
                   </ul>
@@ -100,31 +97,6 @@ function App() {
              </div> 
              <div className="PROJECTS">
               <ul>
-                <li>
-                  <dl>
-                    <a href='https://www.kaggle.com/gauravsingh17467/cassava-alexnet/edit/run/63864507'>
-                       CASSAVA LEAF DISEASE CLASSIFICATION ( MINOR PROJECT )
-                    </a>
-                  </dl>
-                  <dd>
-                    Replicated the AlexNet architecture and trained it on the 
-                    Cassava leaf disease dataset. Achieved accuracy of 70% on the 
-                    validation set.
-                  </dd>
-                  </li>
-                  <li>
-                    <dl>
-                      <a href='https://www.kaggle.com/ajaygond/detecting-colors-hsv-color-space-opencv-with-p/edit'>
-                         MULTIPLE COLOR DETECTION IN REAL TIME USING OPENCV-PYTHON
-                      </a>
-                    </dl>
-                    <dd>
-                      Created model that filters out RGB channels in real time video 
-                      obtained from webcam moreover it also filters out only white and non-white 
-                      components, have a window of trackbars for different values of HSV using 
-                      which various shades of video frame can be obtained.
-                    </dd>
-                    </li>
                     <li>
                       <dl>
                         <a href='https://github.com/ajayg51/MessageApp'>
@@ -135,7 +107,7 @@ function App() {
                         A blog based android application where anyone can share their 
                         thoughts created using JAVA and FIREBASE.
                       </dd>
-                      </li>
+                    </li>
                     <li>
                       <dl>
                         <a href='https://github.com/ajayg51/portfolio'>
@@ -145,7 +117,7 @@ function App() {
                       <dd>
                         Duplicated layout of resume using react.js and css.
                       </dd>
-                      </li>
+                    </li>
               </ul>
              </div>
           </div>
@@ -153,7 +125,7 @@ function App() {
         </header>
         <footer className='FOOTER'>
             <p className='CLICKABLE-INFO'>All underlined texts are clickable</p>
-            <p><a href='https://drive.google.com/file/d/1nmw49T8EXXDUTxLt40XAsUDzHKZ7qlLo/view?usp=sharing'><span className='CLICK-PDF'>Click here</span></a> to get pdf version of my resume.</p>
+            <p><a href='https://drive.google.com/file/d/1XsPaAeYSyz81-Side_WmhYTprQ5I52x-/view?usp=sharing'><span className='CLICK-PDF'>Click here</span></a> to get pdf version of my resume.</p>
         </footer>
       </div>
     </div>
