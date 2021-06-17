@@ -20,7 +20,10 @@ function App() {
             </div>
             <div className='INTRO'>
             <h1>Ajay Kumar Gond</h1>
-               <p>+91 <a href='https://t.me/ajayg51' target='_blank' rel="noopener noreferrer">8090485110</a> , <a href='https://wa.me/+916307542669?text=Hi' target='_blank' rel="noopener noreferrer">6307542669</a></p>
+               <p className='CONTACT'>+91 <a href='https://t.me/ajayg51' target='_blank' rel="noopener noreferrer">
+               8090485110</a> , 
+               <a href='https://wa.me/+916307542669?text=Hi' target='_blank' rel="noopener noreferrer">
+               6307542669</a></p>
                <p><a href='mailto:ajayg.ug18.cs@nitp.ac.in' target='_blank' rel="noopener noreferrer">ajayg.ug18.cs@nitp.ac.in</a> , <a href='mailto:hi.ajay51@gmail.com' target='_blank' rel="noopener noreferrer">hi.ajay51@gmail.com</a></p>
             </div>
           </div>
