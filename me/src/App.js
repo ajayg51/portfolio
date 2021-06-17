@@ -102,6 +102,10 @@ function App() {
                         <a href='https://github.com/ajayg51/MessageApp'>
                            beGlobal Android App
                         </a>
+                        <a className='BEGLOBAL-APK-DOWNLOAD' href='https://github.com/ajayg51/MessageApp/blob/master/app/install/beGlobal.apk?raw=true'>
+                           &#35;Download
+                        </a>
+                        
                       </dl>
                       <dd>
                         A blog based android application where anyone can share their 
