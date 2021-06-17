@@ -16,7 +16,7 @@ function App() {
           <p className='late-hoverMetext'>Hover over me !!</p>
           <div className='ITSME'>
             <div className="AVATAR">
-                <img src={avatar} width='200px' height='200px' style={{borderRadius:50+'%'}}/>
+                <img src={avatar} width='200px' height='200px' style={{borderRadius:50+'%',backgroundColor:'black'}}/>
             </div>
             <div className='INTRO'>
             <h1>Ajay Kumar Gond</h1>
