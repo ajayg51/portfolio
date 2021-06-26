@@ -125,6 +125,16 @@ function App() {
                         Duplicated layout of resume using react.js and css.
                       </dd>
                     </li>
+                    <li>
+                      <dl>
+                        <a href='https://github.com/ajayg51/Justwhatsapp'>
+                           Justwhatsapp
+                        </a>
+                      </dl>
+                      <dd>
+                        An android application which lets you chat with anyone on Whatsapp without any need of saving their mobile number created using JAVA and XML.
+                      </dd>
+                    </li>
               </ul>
              </div>
           </div>
