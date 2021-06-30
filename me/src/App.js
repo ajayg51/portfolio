@@ -77,12 +77,12 @@ function App() {
                     <li>Experienced :
                         <ul>
                           <li>C++</li>
-                          <li>Java </li>
+                          <li>C</li>
                         </ul>
                     </li>
                     <li>Familiar :
                         <ul>
-                          <li>C </li>
+                          <li>Java</li>
                           <li>Python</li>
                           <li>React.js</li>
                           <li>Firebase </li>
