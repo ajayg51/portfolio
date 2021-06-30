@@ -103,7 +103,7 @@ function App() {
                     <li>
                       <dl>
                         <a href='https://github.com/ajayg51/MessageApp'>
-                           beGlobal Android App
+                           beGlobal
                         </a>
                         <a className='APK-DOWNLOAD' href='https://github.com/ajayg51/MessageApp/blob/master/app/install/beGlobal.apk?raw=true'>
                            &#35;Download
