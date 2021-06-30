@@ -135,8 +135,7 @@ function App() {
                         </a>
                       </dl>
                       <dd>
-                        An android application which lets you chat with anyone on Whatsapp without any need of saving their mobile number created using JAVA and XML.
-                      </dd>
+                        An android application which lets you open Whatsapp chat of anyone on Whatsapp without any need of saving their mobile number, created using JAVA and XML.</dd>
                     </li>
               </ul>
              </div>
@@ -145,7 +144,7 @@ function App() {
         </header>
         <footer className='FOOTER'>
             <p className='CLICKABLE-INFO'>All underlined texts are clickable</p>
-            <p><a href='https://drive.google.com/file/d/1rzWPeVfF_PJcJ3nOWwg5CXMr8ELgbXyf/view?usp=sharing'><span className='CLICK-PDF'>Click here</span></a> to get pdf version of my resume.</p>
+            <p><a href='https://drive.google.com/file/d/1NEaNQb-oIUvXc9r36QdC5oeWHf6S8VDa/view?usp=sharing'><span className='CLICK-PDF'>Click here</span></a> to get pdf version of my resume.</p>
         </footer>
       </div>
     </div>
