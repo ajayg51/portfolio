@@ -85,7 +85,7 @@ function App() {
                           <li>Java</li>
                           <li>Python</li>
                           <li>React.js</li>
-                          <li>Firebase </li>
+                          <li>Firebase</li>
                           <li>Git</li>
                         </ul>
                     </li>
@@ -130,6 +130,9 @@ function App() {
                         <a href='https://github.com/ajayg51/Justwhatsapp'>
                            Justwhatsapp
                         </a>
+                        <a className='APK-DOWNLOAD' href='https://github.com/ajayg51/Justwhatsapp/blob/master/app/install/Justwhatsapp.apk?raw=true'>
+                           &#35;Download
+                        </a>
                       </dl>
                       <dd>
                         An android application which lets you chat with anyone on Whatsapp without any need of saving their mobile number created using JAVA and XML.
@@ -142,7 +145,7 @@ function App() {
         </header>
         <footer className='FOOTER'>
             <p className='CLICKABLE-INFO'>All underlined texts are clickable</p>
-            <p><a href='https://drive.google.com/file/d/1nzRo4mfQgmPq-hodAaFsEwCWyhJlHCMv/view?usp=sharing'><span className='CLICK-PDF'>Click here</span></a> to get pdf version of my resume.</p>
+            <p><a href='https://drive.google.com/file/d/16FYMdM_dM7-srFC1GMiYRJuQGdtkI83c/view?usp=sharing'><span className='CLICK-PDF'>Click here</span></a> to get pdf version of my resume.</p>
         </footer>
       </div>
     </div>
