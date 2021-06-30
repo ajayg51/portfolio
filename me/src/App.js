@@ -100,6 +100,8 @@ function App() {
              </div> 
              <div className="PROJECTS">
               <ul>
+                <li>PROJECTS
+                  <ul>
                     <li>
                       <dl>
                         <a href='https://github.com/ajayg51/MessageApp'>
@@ -135,8 +137,10 @@ function App() {
                         </a>
                       </dl>
                       <dd>
-                        An android application which lets you open Whatsapp chat of anyone on Whatsapp without any need of saving their mobile number, created using JAVA and XML.</dd>
+                        An android application which lets you open Whatsapp chat of anyone on Whatsapp without any need of saving their mobile number, created using JAVA and XML. </dd>
                     </li>
+                  </ul>
+                </li>
               </ul>
              </div>
           </div>
