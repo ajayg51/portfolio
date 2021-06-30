@@ -105,7 +105,7 @@ function App() {
                         <a href='https://github.com/ajayg51/MessageApp'>
                            beGlobal Android App
                         </a>
-                        <a className='BEGLOBAL-APK-DOWNLOAD' href='https://github.com/ajayg51/MessageApp/blob/master/app/install/beGlobal.apk?raw=true'>
+                        <a className='APK-DOWNLOAD' href='https://github.com/ajayg51/MessageApp/blob/master/app/install/beGlobal.apk?raw=true'>
                            &#35;Download
                         </a>
                         
@@ -145,7 +145,7 @@ function App() {
         </header>
         <footer className='FOOTER'>
             <p className='CLICKABLE-INFO'>All underlined texts are clickable</p>
-            <p><a href='https://drive.google.com/file/d/16FYMdM_dM7-srFC1GMiYRJuQGdtkI83c/view?usp=sharing'><span className='CLICK-PDF'>Click here</span></a> to get pdf version of my resume.</p>
+            <p><a href='https://drive.google.com/file/d/1rzWPeVfF_PJcJ3nOWwg5CXMr8ELgbXyf/view?usp=sharing'><span className='CLICK-PDF'>Click here</span></a> to get pdf version of my resume.</p>
         </footer>
       </div>
     </div>
