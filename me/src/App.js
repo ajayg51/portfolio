@@ -77,16 +77,12 @@ function App() {
                     <li>Experienced :
                         <ul>
                           <li>C++</li>
-                          <li>C</li>
                         </ul>
                     </li>
                     <li>Familiar :
                         <ul>
                           <li>Java</li>
-                          <li>Python</li>
                           <li>React.js</li>
-                          <li>Firebase</li>
-                          <li>Git</li>
                         </ul>
                     </li>
                   </ul>
@@ -148,7 +144,7 @@ function App() {
         </header>
         <footer className='FOOTER'>
             <p className='CLICKABLE-INFO'>All underlined texts are clickable</p>
-            <p><a href='https://drive.google.com/file/d/1NEaNQb-oIUvXc9r36QdC5oeWHf6S8VDa/view?usp=sharing'><span className='CLICK-PDF'>Click here</span></a> to get pdf version of my resume.</p>
+            <p><a href='https://drive.google.com/file/d/1yZYH_xbGzEHmP7mwEmTMIkIwUNHsPCa3/view?usp=sharing'><span className='CLICK-PDF'>Click here</span></a> to get pdf version of my resume.</p>
         </footer>
       </div>
     </div>
